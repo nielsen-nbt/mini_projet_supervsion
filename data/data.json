@@ -1,0 +1,62 @@
+[
+    {
+      "cpu": 44,
+      "nom": "Serveur-1",
+      "temperature": 30,
+      "timestamp": "16:31:29"
+    },
+    {
+      "cpu": 47,
+      "nom": "Serveur-2",
+      "temperature": 61,
+      "timestamp": "16:31:29"
+    },
+    {
+      "cpu": 51,
+      "nom": "Serveur-3",
+      "temperature": 55,
+      "timestamp": "16:31:29"
+    },
+    {
+      "cpu": 12,
+      "nom": "Serveur-4",
+      "temperature": 47,
+      "timestamp": "16:31:29"
+    },
+    {
+      "cpu": 29,
+      "nom": "Serveur-5",
+      "temperature": 72,
+      "timestamp": "16:31:29"
+    },
+    {
+      "cpu": 76,
+      "nom": "Serveur-6",
+      "temperature": 38,
+      "timestamp": "16:31:29"
+    },
+    {
+      "cpu": 47,
+      "nom": "Serveur-7",
+      "temperature": 66,
+      "timestamp": "16:31:29"
+    },
+    {
+      "cpu": 16,
+      "nom": "Serveur-8",
+      "temperature": 43,
+      "timestamp": "16:31:29"
+    },
+    {
+      "cpu": 94,
+      "nom": "Serveur-9",
+      "temperature": 44,
+      "timestamp": "16:31:29"
+    },
+    {
+      "cpu": 59,
+      "nom": "Serveur-10",
+      "temperature": 71,
+      "timestamp": "16:31:29"
+    }
+  ]

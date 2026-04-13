@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Supervision Cloud</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Tableau de Bord Supervision</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Machine</th>
+                <th>Température</th>
+                <th>Charge CPU</th>
+                <th>Dernière MAJ</th>
+            </tr>
+        </thead>
+        <tbody id="table-body"></tbody>
+    </table>
+    <div style="width: 80%; margin: auto;">
+        <canvas id="chart"></canvas>
+    </div>
+    <!--<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>-->
+    <script src="script.js"></script>
+
+    <div class="chart-container">
+        <canvas id="chart"></canvas>
+    </div>
+</body>
+</html>

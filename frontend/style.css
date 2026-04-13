@@ -1,0 +1,49 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f4f7f6;
+    margin: 0;
+    padding: 30px;
+    text-align: center;
+}
+
+h1 {
+    color: #2c3e50;
+    margin-bottom: 30px;
+}
+
+/* TABLEAU : Stable et large */
+table {
+    width: 95%;
+    max-width: 1400px;
+    margin: 0 auto 50px auto;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    table-layout: fixed;
+}
+
+th {
+    background-color: #34495e;
+    color: white;
+    padding: 18px;
+    font-size: 0.9em;
+}
+
+td {
+    border-bottom: 1px solid #eee;
+    padding: 15px;
+    font-size: 1.1em;
+}
+
+/* GRAPHIQUE : C'est ici qu'on règle la taille */
+.chart-container {
+    width: 95%;
+    max-width: 1400px;
+    height: 550px; /* ON FORCE LA HAUTEUR ICI */
+    margin: 0 auto;
+    background-color: white;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    position: relative; /* Indispensable pour Chart.js */
+}
